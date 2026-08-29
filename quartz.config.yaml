@@ -36,9 +36,9 @@ configuration:
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#a7c080"
-        tertiary: "#84a59d"
-        highlight: "#374041"
+        secondary: "#e4e6e7"
+        tertiary: "#a7c080"
+        highlight: "#546456"
         textHighlight: "#a7c080"
 plugins:
   - source: "@quartz-community/created-modified-date"
