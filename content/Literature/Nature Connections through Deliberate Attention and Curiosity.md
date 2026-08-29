@@ -1,18 +1,22 @@
 ---
-title: Nature Connections through Deliberate Attention and Curiosity
-authors: John Muir Laws
-url: https://www.youtube.com/watch?v=af1kB89pIsw
 publish: true
+title: Nature Connections through Deliberate Attention and Curiosity
+created: 1970-01-01T00:00:00.000Z
+modified: 2026-07-09T00:26:59.604Z
 ---
->**Themes:** [[Nature]], [[Writing]], [[Psychology]], [[Guiding]]
->>**Status:** [[Sprouts|🌱]]
->**Tags:** #Literature #Video
 
->[!summary]
->In this video, Laws proposes [[Nature Journaling]] as a powerful tool for connection, self reflection, and memory retention. He makes the argument that it will completely change one's relationship to the natural world, opening their eyes to things they have never seen before.
+> **Themes:** [[Nature]], [[Writing]], [[Psychology]], [[Guiding]]
+>
+> > **Status:** [[Sprouts|🌱]]
+> > **Tags:** #Literature #Video
+
+> [!summary]
+> In this video, Laws proposes [[Nature Journaling]] as a powerful tool for connection, self reflection, and memory retention. He makes the argument that it will completely change one's relationship to the natural world, opening their eyes to things they have never seen before.
 
 # Quotes
+
 ---
+
 "It all starts with somehow learning how to pay greater attention."
 
 > [!quote] Quote
@@ -45,10 +49,13 @@ publish: true
 > Love as sustained compassionate attention
 
 # Notes
+
 ---
+
 **Production Effect:** When you say out loud your observation, it sticks in your brain. By going from your eyes to your mouth, you need to use your brain.
 
 **3 Part Exercise:**
+
 - **I Notice** Speak observation out loud.
 - **I Wonder** Ask questions about the observations to explore your curiosity.
 - **It Reminds Me Of** Connect what you have observed or learned to other things you have observed and learned.

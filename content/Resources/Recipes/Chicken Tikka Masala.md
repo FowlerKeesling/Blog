@@ -1,38 +1,47 @@
 ---
-url: https://www.youtube.com/watch?v=pFeE8_VqdfA
-image url: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbellyfull.net%2Fwp-content%2Fuploads%2F2021%2F05%2FChicken-Tikka-Masala-blog.jpg&f=1&nofb=1&ipt=be3e3ebfcb0f9e2cccf148f149b6a870423fca659e63e7647b6ea8cfcaba99d4
 publish: true
+created: 1970-01-01T00:00:00.000Z
+modified: 2026-07-09T00:06:01.954Z
 ---
->**Themes:** [[Recipes]]
+
+> **Themes:** [[Recipes]]
 
 # Ingredients
+
 ---
+
 **Tikka Paste:**
-- [ ] 1 tbs coriander seeds
-- [ ] 1/2 tsp cumin seeds
-- [ ] 1 tbsp garam masala
-- [ ] 1 tsp tumeric
-- [ ] 7 cloves garlic
-- [ ] 2 in piece ginger root
-- [ ] 1-2 jalapenos
-- [ ] 1/4 cup water
-- [ ] 2 tbsp oil
+
+- 1 tbs coriander seeds
+- 1/2 tsp cumin seeds
+- 1 tbsp garam masala
+- 1 tsp tumeric
+- 7 cloves garlic
+- 2 in piece ginger root
+- 1-2 jalapenos
+- 1/4 cup water
+- 2 tbsp oil
 
 **Marinated Chicken:**
-- [ ] 1 cup of yogurt
-- [ ] 2 lbs chicken thighs
-- [ ] 2 tbs of tikka paste
-- [ ] 2tsp kosher salt
+
+- 1 cup of yogurt
+- 2 lbs chicken thighs
+- 2 tbs of tikka paste
+- 2tsp kosher salt
 
 **Sauce:**
-- [ ] 1 28 oz can of pureed tomatoes
-- [ ] 4 tbsp unsalted butter
-- [ ] 1 large onion
-- [ ] 1.25 cup heavy whipping cream
-- [ ] 1 tbs paprika
-- [ ] 1 tsp kashmiri chili powder [^1]
+
+- 1 28 oz can of pureed tomatoes
+- 4 tbsp unsalted butter
+- 1 large onion
+- 1.25 cup heavy whipping cream
+- 1 tbs paprika
+- 1 tsp kashmiri chili powder [^1]
+
 # Instructions
+
 ---
+
 1. Blend all Tikka ingredients until smooth.
 2. Cut chicken into bite size pieces.
 3. In a bowl mix together, whole milk yogurt, tikka masala paste, and kosher salt. Whisk together.
@@ -45,8 +54,5 @@ publish: true
 10. Add in the heavy cream and mix until thoroughly combined.
 11. Add chicken back to the pan, coating it in the sauce and bringing to a simmer, for an additional 10-15 minutes. (until chicken is cooked through)
 12. Season to taste with salt and plate with rice. Garnish with cilantro and serve.
-
-
-
 
 [^1]: A combination of paprika and cayenne pepper at a 4:1 ratio works as a substitute
