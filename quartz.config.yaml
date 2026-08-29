@@ -38,7 +38,7 @@ configuration:
         dark: "#ebebec"
         secondary: "#d3c6ab"
         tertiary: "#a7c080"
-        highlight: "#546456"
+        highlight: "#2d353a"
         textHighlight: "#a7c080"
 plugins:
   - source: "@quartz-community/created-modified-date"
