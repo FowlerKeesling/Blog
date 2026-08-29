@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Fowler's Thought Gardern
+  pageTitle: Fowler's Notes
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
