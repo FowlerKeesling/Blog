@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Bricolage Grotesque
+      body: Bricolage Grotesque
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -39,7 +39,7 @@ configuration:
         secondary: "#7b97aa"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        textHighlight: "#fff23688"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
