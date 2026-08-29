@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-07-11T22:50:24.180Z
+modified: 2026-08-29T23:15:02.196Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -90,3 +90,11 @@ sudo docker ps
 > **docker:** The Docker command-line interface (CLI). It allows you to interact with the Docker Engine from the terminal.
 >
 > **ps:** Stands for "process status." In Docker, this command lists currently running containers and displays information about their state.
+
+# Back Matter
+
+---
+
+Next Step: [[Tailscale Setup]]
+Previous Step: [[Docker Installation and Folder Structure]]
+Parent Page: [[Home Server Build Guide]]

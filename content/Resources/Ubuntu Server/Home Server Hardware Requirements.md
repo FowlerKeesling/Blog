@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-07-11T22:39:31.778Z
+modified: 2026-08-29T23:15:38.727Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -24,5 +24,5 @@ This build is designed to be an affordable, entry-level home server with a simpl
 
 ---
 
-Parent Page: [[Home Server Build Guide]]
 Next Step: [[Ubuntu Server Installation]]
+Parent Page: [[Home Server Build Guide]]

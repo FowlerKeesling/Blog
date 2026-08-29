@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-07-10T22:35:27.093Z
+modified: 2026-08-29T23:00:05.484Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -63,13 +63,4 @@ This administration note is a template that is intended to be used in combinatio
 > ```
 > ```
 
-> [!info] Restic Backup
-> **UUID**
->
-> ```
-> ```
->
-> **Restic Password:**
->
-> ```
-> ```
+> [!info] Nextcloud

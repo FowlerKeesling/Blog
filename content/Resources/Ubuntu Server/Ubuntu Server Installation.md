@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-07-11T20:04:08.112Z
+modified: 2026-08-29T23:15:29.803Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -107,6 +107,6 @@ sudo reboot
 
 ---
 
-Parent Page: [[Home Server Build Guide]]
 Next Step: [[Visual Studio Code Installation]]
 Previous Step: [[Home Server Hardware Requirements]]
+Parent Page: [[Home Server Build Guide]]

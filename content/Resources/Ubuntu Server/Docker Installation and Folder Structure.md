@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-08-29T22:18:59.220Z
+modified: 2026-08-29T23:15:10.588Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -209,6 +209,10 @@ code .
 > ├── actual/
 > └── npm/
 
-Parent Page: [[Home Server Build Guide]]
+# Back Matter
+
+---
+
 Next Step: [[NGINX Installation]]
 Previous Step: [[Visual Studio Code Installation]]
+Parent Page: [[Home Server Build Guide]]

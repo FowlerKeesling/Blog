@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-07-11T20:04:44.014Z
+modified: 2026-08-29T23:15:19.146Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -29,6 +29,6 @@ username@server-IPv4
 
 ---
 
-Parent Page: [[Home Server Build Guide]]
 Next Step: [[Docker Installation and Folder Structure]]
 Previous Step: [[Ubuntu Server Installation]]
+Parent Page: [[Home Server Build Guide]]
