@@ -2,10 +2,10 @@
 publish: true
 title: Welcome!
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-08-29T20:30:19.035Z
+modified: 2026-08-29T20:56:54.148Z
 ---
 
-This confirms changes. You have arrived in a small but special corner of the internet where I weave together my thoughts and dare to learn in public. This particular website is a [Thought Garden](https://cagrimmett.com/2020/11/08/what-are-digital-gardens/), it grows as I learn. You may have the good fortune of witnessing my notes change over time.
+You have arrived in a small but special corner of the internet where I weave together my thoughts and dare to learn in public. This particular website is a [Thought Garden](https://cagrimmett.com/2020/11/08/what-are-digital-gardens/), it grows as I learn. You may have the good fortune of witnessing my notes change over time.
 
 Every note starts off as a 🌰 [[Seeds|seed]], the beginning of an idea. As it is developed and linked to other notes, it assumes the form of a 🌱 [[Sprouts|sprout]]. Eventually, when the note has blossomed into its full maturity, it becomes an 🌲 [[Evergreens|evergreen]].
 
