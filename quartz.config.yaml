@@ -36,8 +36,8 @@ configuration:
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#d3c6ab"
-        tertiary: "#a7c080"
+        secondary: "#a7c080"
+        tertiary: "#d3c6ab"
         highlight: "#2d353a"
         textHighlight: "#a7c080"
 plugins:
