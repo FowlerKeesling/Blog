@@ -281,7 +281,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      theme: nord
+      theme: atom
       "calloutStyle: glass": ""
       calloutStyle: glass
 layout:
