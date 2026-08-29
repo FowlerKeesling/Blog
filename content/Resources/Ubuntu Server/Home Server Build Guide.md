@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-08-29T22:19:50.453Z
+modified: 2026-08-29T22:25:20.575Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -34,13 +34,13 @@ When making this resource, I have included instructions for a select set of appl
 
 ---
 
-> [!example] Part One: The Foundation
+#### Part One: The Foundation
 
 > 1. [[Home Server Hardware Requirements]]
 > 2. [[Ubuntu Server Installation]]
 > 3. [[Visual Studio Code Installation]]
 
-> [!example] Part Two: Networking
+#### Part Two: Networking
 
 > 1. [[Docker Installation and Folder Structure]]
 > 2. [[NGINX Installation]]
@@ -48,15 +48,13 @@ When making this resource, I have included instructions for a select set of appl
 > 4. [[Domain Acquisition and DNS Management]]
 > 5. [[NGINX Reverse Proxy]]
 
-> [!example] Part Three: Initial Application and Backup Strategy
-> 6\. [[Actual Budget Installation]]
-> 7\. [[External Drive Backup Strategy]]
+#### Part Three: Self-Hosted Applications
 
-> [!example] Part Four: Database Application and Backup Strategy
-> 8\. [[Nextcloud Installation]]
-> 9\. [[Database Backup Strategy]]
+> 1. [[Actual Budget Installation]]
+> 2. [[Nextcloud Installation]]
+> 3. [[Immich Installation]]
+> 4. [[Homarr Installation]]
 
-> [!example] Part Five: Self-Hosted Applications
-> 10\. [[Homarr Installation]]
-> 11\. [[Immich Installation]]
-> 12\. [[Language Tool Installation]]
+#### Part Five: Back Up Strategy
+
+> 1. [[External Drive Backup]]
