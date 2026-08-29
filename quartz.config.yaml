@@ -281,6 +281,8 @@ plugins:
     order: 50
     options:
       theme: nord
+      "calloutStyle: glass": ""
+      calloutStyle: glass
 layout:
   groups:
     toolbar:
