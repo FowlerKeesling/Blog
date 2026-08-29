@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-07-11T20:04:48.076Z
+modified: 2026-08-29T22:18:59.220Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
 > **Status:** [[Sprouts|🌱]]
-> **Tags:** #Resource>**Themes:**
+> **Tags:** #Resource
 
 # Docker Installation
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-07-10T22:49:02.489Z
+modified: 2026-08-29T22:19:50.453Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -35,13 +35,13 @@ When making this resource, I have included instructions for a select set of appl
 ---
 
 > [!example] Part One: The Foundation
->
+
 > 1. [[Home Server Hardware Requirements]]
 > 2. [[Ubuntu Server Installation]]
 > 3. [[Visual Studio Code Installation]]
 
 > [!example] Part Two: Networking
->
+
 > 1. [[Docker Installation and Folder Structure]]
 > 2. [[NGINX Installation]]
 > 3. [[Tailscale Setup]]
