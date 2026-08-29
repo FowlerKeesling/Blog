@@ -32,12 +32,12 @@ configuration:
         textHighlight: "#fff23688"
       darkMode:
         light: "#353d42"
-        lightgray: "#a7c080"
+        lightgray: "#808580"
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
         secondary: "#a7c080"
-        tertiary: "#474f54"
+        tertiary: "#84a59d"
         highlight: "#374041"
         textHighlight: "#a7c080"
 plugins:
