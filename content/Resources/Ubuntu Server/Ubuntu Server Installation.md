@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-08-29T23:15:29.803Z
+modified: 2026-09-02T17:36:34.892Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -42,18 +42,16 @@ This server will be built using Ubuntu Server, a Linux distribution. Ubuntu Serv
 
 ## Configure Ubuntu Server:
 
-During installation, accept the default options except for the following:
+1. During installation, accept the default options except for the following:
+   - Disable LVM
+   - Enable OpenSSH Server
 
-- Disable LVM
-- Enable OpenSSH Server
-
-When the installation is done, document the following in the [[Server Administration|Server Administration Notes]]
-
-- Name
-- Server name
-- Username
-- Password
-- Server IPv4 address
+2. When the installation is done, document the following in the [[Server Administration]] note and a trusted password manager.
+   - Name
+   - Server name
+   - Username
+   - Password
+   - Server IPv4 address
 
 ## Login Remotely:
 

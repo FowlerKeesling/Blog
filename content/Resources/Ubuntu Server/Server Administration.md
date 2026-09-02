@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-08-29T23:00:05.484Z
+modified: 2026-09-02T17:45:20.806Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -11,16 +11,6 @@ modified: 2026-08-29T23:00:05.484Z
 This administration note is a template that is intended to be used in combination with the [[Home Server Build Guide]].
 
 > [!todo] Server Credentials
-> **Username:**
->
-> ```
-> ```
->
-> **Password:**
->
-> ```
-> ```
->
 > **IPv4:**
 >
 > ```
@@ -31,36 +21,26 @@ This administration note is a template that is intended to be used in combinatio
 > ```
 > ```
 
-> [!abstract] Nginx Proxy Manager
-> **Username:**
->
-> ```
-> ```
->
-> **Password:**
->
-> ```
-> ```
->
+> [!abstract] NGINX Proxy Manager
 > **Port:**
 >
 > ```
 > ```
 
-> [!Danger] Cloudflare API
->
-> ```
-> ```
-
-> [!check] Actual Budget
-> **Password:**
->
-> ```
-> ```
->
+> [!info] Actual Budget
 > **Port:**
 >
 > ```
 > ```
 
 > [!info] Nextcloud
+> **Port:**
+>
+> ```
+> ```
+
+> [!info] Immich
+> **Port:**
+>
+> ```
+> ```

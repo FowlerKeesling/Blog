@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-08-29T23:51:55.373Z
+modified: 2026-09-02T16:12:44.625Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -23,12 +23,23 @@ sudo apt install ca-certificates curl
 sudo install -m 0755 -d /etc/apt/keyrings  
 ```
 
+> [!info] Command Breakdown
+>
+> - `sudo apt update` Updates the list of available software.
+> - `sudo apt install ca-certificates curl` Installs tools for secure downloads.
+> - `sudo install -m 0755 -d /etc/apt/keyrings` Creates a folder for software security keys.
+
 2. Add the Docker GPG key
 
 ```bash
 sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
 sudo chmod a+r /etc/apt/keyrings/docker.asc  
 ```
+
+> [!info] Command Breakdown
+>
+> - `sudo curl ...` Downloads Docker’s security key and saves it to the system.
+> - `sudo chmod a+r ...` Allows all users to read the Docker security key.
 
 3. Add Docker repository
 
@@ -73,23 +84,17 @@ cd docker
 code .
 ```
 
-> [!todo]- Command Breakdown\
-> **Why:** These commands open your Docker project folder in Visual Studio Code. This allows you to manage Docker files, configuration files, and project folders using a graphical editor instead of modifying everything directly from the terminal.
+> [!todo] Command Breakdown
 >
-> **cd:** Stands for "change directory." This command is used to navigate between folders in the terminal.
->
-> **docker:** The name of the directory you are moving into. In this setup, this folder contains your Docker-related files and projects.
->
-> **code:** The command-line launcher for Visual Studio Code. It allows you to open files and folders in VS Code directly from the terminal.
->
-> **.** Represents the current directory. When used with `code`, it tells Visual Studio Code to open the folder you are currently inside.
+> - `cd docker` Moves into the docker folder.
+> - `code .` Opens the current folder in Visual Studio Code.
 
 4. Create a new folder in the docker folder named "npm"
    - NGINX Proxy Manager container
 5. Create a new folder in the docker folder named "actual"
    - Actual Budget container
 
-**The structure should look like this:**
+**The directory structure should look like this:**
 
 > /home/username/docker/\
 > ├── actual/

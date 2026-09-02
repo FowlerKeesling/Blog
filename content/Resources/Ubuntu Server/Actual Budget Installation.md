@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-08-29T23:26:32.067Z
+modified: 2026-09-02T17:50:02.279Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -39,18 +39,19 @@ sudo docker compose up -d
 ```
 
 5. Nagivate to the NGINX admin page using a web browser https://npm.domain.org
-6. Click "Hots"
-7. Click "Proxy Hosts"
+6. Click "Host".
+7. Click "Proxy Hosts".
 8. Click "Add Proxy Host" and fill out the following:
    - **Domain Names:** actual.domain.org
    - **Scheme:** http
    - **Forward Hostname / IP:** server's IPv4
    - **Forward Port:** 5006
-9. Enable "Block Common Exploits"
-10. Click on "SSL"
-11. Select "\*.domain.org" from the drop down
-12. Enable all 4 options
-13. Click "Save"
+9. Enable "Block Common Exploits".
+10. Click on "SSL" .
+11. Select "\*.domain.org" from the drop down.
+12. Enable all 4 options.
+13. Click "Save".
+14. Record the port 5006 in the [[Server Administration]] note under Actual Budget.
 
 > [!Check] Congratulations! The Server is Live
 > **Check if everything is working**

@@ -14,6 +14,7 @@ Here you will find my sprouts, they contain all of the ideas that are currently 
 | [[Parchment/Embracing the Unknown is a Sign of Maturity.md\|Embracing the Unknown is a Sign of Maturity]]                                      | <ul><li>#Parchment</li></ul>                 |
 | [[Resources/Ubuntu Server/Home Server Build Guide.md\|Home Server Build Guide]]                                                                | <ul><li>#Resource</li></ul>                  |
 | [[Resources/Ubuntu Server/Home Server Hardware Requirements.md\|Home Server Hardware Requirements]]                                            | <ul><li>#Resource</li></ul>                  |
+| [[Resources/Ubuntu Server/Immich Installation.md\|Immich Installation]]                                                                        | <ul><li>#Resource</li></ul>                  |
 | [[Literature/Nature Connections through Deliberate Attention and Curiosity.md\|Nature Connections through Deliberate Attention and Curiosity]] | <ul><li>#Literature</li><li>#Video</li></ul> |
 | [[Resources/Ubuntu Server/Nextcloud Installation.md\|Nextcloud Installation]]                                                                  | <ul><li>#Resource</li></ul>                  |
 | [[Resources/Ubuntu Server/NGINX Installation.md\|NGINX Installation]]                                                                          | <ul><li>#Resource</li></ul>                  |

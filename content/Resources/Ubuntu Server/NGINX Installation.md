@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-08-29T23:52:19.041Z
+modified: 2026-09-02T17:45:12.000Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -18,6 +18,12 @@ cd npm
 mkdir data
 nano docker-compose.yml
 ```
+
+> [!info] Code Breakdown
+>
+> - `cd npm` change directory to npm
+> - `mkdir data` make a new directory titled data
+> - `nano docker-compose.yml` create a new file titled docker-compose.yml and open it in the editor
 
 2. Nano will open an empty file in the main window of VS Code. Paste following the configuration into the this file then save using CTRL or ⌘ + S.
 
@@ -48,11 +54,19 @@ services:
 sudo docker compose up -d  
 ```
 
+> [!info] Command Breakdown
+> `sudo docker compose up -d` starts the docker container in the background using the information outlined in the docker-compose.yml
+
 4. Verify the container is running. If the application is running, it should appear in the list.
 
 ```bash
 sudo docker ps
 ```
+
+> [!info] Command Breakdown
+> `docker ps` process status shows the status of all running docker containers
+
+5. Record the port 81 in the [[Server Administration]] under NGINX proxy manager.
 
 # Back Matter
 

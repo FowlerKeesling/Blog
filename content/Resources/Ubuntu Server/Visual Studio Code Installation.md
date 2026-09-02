@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-08-29T23:15:19.146Z
+modified: 2026-09-02T17:41:15.981Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -12,8 +12,11 @@ modified: 2026-08-29T23:15:19.146Z
 > Install Visual Studio Code on your primary computer. It provides an easy way to connect to your server over SSH and manage files without relying entirely on the terminal.
 
 1. Install [VS Code](https://code.visualstudio.com/download)
-2. Open VS Code and click the "Remote Exlporer" icon in the left column
-3. Enter the following SSH connection string to remotely connect:
+2. Open VS Code and click the Extensions icon.
+3. Type "Remote - SSH" into the search box and search for the extension.
+4. Install "Remote - SSH"
+5. Click the "Remote Explorer" icon in the left column
+6. Enter the following SSH connection string to remotely connect:
    - Replace **username** with the username you created during installation
    - Replace **server-IPv4** with the server's IPv4
 

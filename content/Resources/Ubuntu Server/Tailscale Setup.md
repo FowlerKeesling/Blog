@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 1970-01-01T00:00:00.000Z
-modified: 2026-08-29T23:14:50.287Z
+modified: 2026-09-02T17:45:55.671Z
 ---
 
 > **Themes:** [[Data Ownership]], [[Server]]
@@ -23,7 +23,7 @@ sudo tailscale up
 ```
 
 7. Copy the server IP from the Tailscale website.
-8. Paste the server IP into the [[Server Administration]].
+8. Save the server's Tailscale IP in the [[Server Administration]] note.
 
 # Back Matter
 
