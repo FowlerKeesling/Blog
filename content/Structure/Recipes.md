@@ -10,16 +10,17 @@ Here you will find all of the recipes that I tend to make on a regular basis. Th
 
 ---
 
-| File                                                                |
-| ------------------------------------------------------------------- |
-| [[Resources/Recipes/Baked Ziti.md\|Baked Ziti]]                     |
-| [[Resources/Recipes/Chicken Tikka Masala.md\|Chicken Tikka Masala]] |
-| [[Resources/Recipes/Chicken Wraps.md\|Chicken Wraps]]               |
-| [[Resources/Recipes/Chili.md\|Chili]]                               |
-| [[Resources/Recipes/Drunken Noodles.md\|Drunken Noodles]]           |
-| [[Resources/Recipes/Greek Pasta Salad.md\|Greek Pasta Salad]]       |
-| [[Resources/Recipes/Ground Beef Tacos.md\|Ground Beef Tacos]]       |
-| [[Resources/Recipes/Oat Meal.md\|Oat Meal]]                         |
-| [[Resources/Recipes/Pasta Sauce.md\|Pasta Sauce]]                   |
-| [[Resources/Recipes/Quinoa Bowl.md\|Quinoa Bowl]]                   |
-| [[Resources/Recipes/Shrimp Pesto Pasta.md\|Shrimp Pesto Pasta]]     |
+| File                                                                                          |
+| --------------------------------------------------------------------------------------------- |
+| [[Resources/Recipes/Baked Ziti.md\|Baked Ziti]]                                               |
+| [[Resources/Recipes/Chicken Tikka Masala.md\|Chicken Tikka Masala]]                           |
+| [[Resources/Recipes/Chicken Wraps.md\|Chicken Wraps]]                                         |
+| [[Resources/Recipes/Chili.md\|Chili]]                                                         |
+| [[Resources/Recipes/Drunken Noodles.md\|Drunken Noodles]]                                     |
+| [[Resources/Recipes/Greek Pasta Salad.md\|Greek Pasta Salad]]                                 |
+| [[Resources/Recipes/Ground Beef Tacos.md\|Ground Beef Tacos]]                                 |
+| [[Resources/Recipes/Lemon Basil Gnocchi with Zucchini.md\|Lemon Basil Gnocchi with Zucchini]] |
+| [[Resources/Recipes/Oat Meal.md\|Oat Meal]]                                                   |
+| [[Resources/Recipes/Pasta Sauce.md\|Pasta Sauce]]                                             |
+| [[Resources/Recipes/Quinoa Bowl.md\|Quinoa Bowl]]                                             |
+| [[Resources/Recipes/Shrimp Pesto Pasta.md\|Shrimp Pesto Pasta]]                               |
